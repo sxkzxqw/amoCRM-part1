@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/amoCRM-part1/static/css/main.1a4fd110.css",
+    "main.js": "/amoCRM-part1/static/js/main.b6f49048.js",
+    "index.html": "/amoCRM-part1/index.html",
+    "main.1a4fd110.css.map": "/amoCRM-part1/static/css/main.1a4fd110.css.map",
+    "main.b6f49048.js.map": "/amoCRM-part1/static/js/main.b6f49048.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a4fd110.css",
+    "static/js/main.b6f49048.js"
+  ]
+}
